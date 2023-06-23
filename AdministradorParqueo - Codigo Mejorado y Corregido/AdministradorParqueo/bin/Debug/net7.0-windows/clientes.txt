@@ -1,0 +1,2 @@
+Cliente1,123456,Parking,Automóvil,19/6/2023,22:26,19/9/2023,22:26,True
+Juan,1234567,Parking,Automóvil,19/6/2023,22:30,20/6/2023,1:35,False
